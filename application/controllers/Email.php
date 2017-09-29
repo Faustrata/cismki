@@ -15,7 +15,7 @@ class Email extends CI_Controller
 			'smtp_port'=> '465',
 			'smtp_timeout'=>'7',
 			'smtp_user'=> 'dulex29@gmail.com',
-			'smtp_pass'=> 'LENOVOI3',
+			'smtp_pass'=> 'YESICANDOIT',
 			'charset'=> 'UTF-8',
 			'mailtype'=> 'html',
 			'newline'=> '\r\n',
